@@ -1,12 +1,12 @@
 # bootpenal
 R package: Bootstrap Penalization for variable selection with big data
 
-bootpenal
+# bootpenal
 
 This is the R package `bootpenal' (Bootstrap penalization for variable selection with big data) written and maintained by Kuangnan Fang (xmufkn@xmu.edu) and Shuangge Ma(shuange.ma@yale.edu)
 
 
-Installation
+# Installation
 
 You can install the stable version on CRAN:
 
