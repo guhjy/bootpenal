@@ -1,0 +1,12 @@
+Package: bootpenal
+Title: Bootstrap Penalization for variable selection with big data
+Version: 1.0.0
+Author: Kuangnan Fang [aut,cre], Shuangge Ma[aut,cre]
+Maintainer: Kuangnan Fang <xmufkn@xmu.edu.cn>
+Description: Bootstrap penalization for big data with  large p (number of covariates) and/or large n (sample size).It fits block random lasso and block  random adaptive lasso for data with large p. It fits split lasso and split adaptive lasso for data with large n. It fits split block random lasso and split block random adaptive lasso for data with large p and n.It is strongly recommended to conduct functions on High performance computer using parallel computing.
+Depends: R (>= 3.0.3)
+Imports: glmnet,ClustOfVar,clValid,msgps,MASS
+Suggests: parallel
+License: GPL (>= 2)
+LazyData: true
+URL: https://www.r-project.org
